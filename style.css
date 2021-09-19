@@ -1,0 +1,12 @@
+body{
+    background-color: aquamarine;
+}
+.boat{
+    font-size: 20px;
+    font-weight: 400;
+    color:blue;
+    background-color: chartreuse;
+    display:flex;
+    font-family: cursive;
+    justify-content: space-between;
+}
